@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlfxAnd</string>
+    <string name="action_settings">设置</string>
+
+    <string name="menu_title_adjust">----调整-----</string>
+    <string name="menu_adjust_brightness_contrast">亮度/对比度</string>
+    <string name="menu_adjust_hue_saturation">色相饱和度</string>
+    <string name="menu_adjust_vibrance">鲜艳</string>
+    <string name="menu_adjust_denoise">降噪</string>
+    <string name="menu_adjust_unsharp_mask">透明面膜</string>
+    <string name="menu_adjust_noise">噪声</string>
+    <string name="menu_adjust_sepia">乌贼</string>
+    <string name="menu_adjust_vignette">小插图</string>
+
+    <string name="menu_title_blur">----模糊-----</string>
+    <string name="menu_blur_zoom_blur">变焦模糊</string>
+    <string name="menu_blur_triangle_blur">三角模糊</string>
+    <string name="menu_blur_tilt_shift">倾斜移位</string>
+    <string name="menu_blur_lens_blur">镜头模糊</string>
+
+    <string name="menu_title_warp">----扭曲-----</string>
+    <string name="menu_warp_swirl">漩涡</string>
+    <string name="menu_warp_bulge_pinch">膨胀/捏</string>
+    <string name="menu_warp_perspective">透视</string>
+
+    <string name="menu_title_fun">----乐趣-----</string>
+    <string name="menu_fun_ink">墨水</string>
+    <string name="menu_fun_edge_work">边缘工作</string>
+    <string name="menu_fun_hexagonal_pixelate">六角形像素</string>
+    <string name="menu_fun_dot_screen">点画面</string>
+    <string name="menu_fun_color_halftone">彩色半色调</string>
+</resources>

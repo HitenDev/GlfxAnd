@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menu_title_adjust">
+        <menu android:checkableBehavior="single">
+            <group android:checkableBehavior="single">
+                <item android:title="@string/menu_adjust_brightness_contrast" />
+                <item android:title="@string/menu_adjust_hue_saturation"/>
+                <item android:title="@string/menu_adjust_vibrance" />
+                <item android:title="@string/menu_adjust_denoise"  />
+                <item android:title="@string/menu_adjust_unsharp_mask"/>
+                <item android:title="@string/menu_adjust_noise"/>
+                <item android:title="@string/menu_adjust_sepia"/>
+                <item android:title="@string/menu_adjust_vignette"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_title_blur">
+        <menu android:checkableBehavior="single">
+            <group android:checkableBehavior="single">
+                <item android:title="@string/menu_blur_zoom_blur" />
+                <item android:title="@string/menu_blur_triangle_blur" />
+                <item android:title="@string/menu_blur_tilt_shift" />
+                <item android:title="@string/menu_blur_lens_blur" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/menu_title_warp">
+        <menu android:checkableBehavior="single">
+            <group android:checkableBehavior="single">
+                <item android:title="@string/menu_warp_swirl" />
+                <item android:title="@string/menu_warp_bulge_pinch" />
+                <item android:title="@string/menu_warp_perspective" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_title_fun">
+        <menu android:checkableBehavior="single">
+            <group android:checkableBehavior="single">
+                <item android:title="@string/menu_fun_ink" />
+                <item android:title="@string/menu_fun_edge_work" />
+                <item android:title="@string/menu_fun_hexagonal_pixelate" />
+                <item android:title="@string/menu_fun_dot_screen" />
+                <item android:title="@string/menu_fun_color_halftone" />
+            </group>
+        </menu>
+    </item>
+</menu>
